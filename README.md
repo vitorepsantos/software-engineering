@@ -1,2 +1,2 @@
-# Thoughts on Software Engineering
-A collection of ideas related to software engineering.
+# Software Engineering
+A collection of topics related to software engineering.
